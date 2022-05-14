@@ -1,10 +1,3 @@
-//Vertex Shader - is needed to provide
-//Shape Assembly
-//Geometry Shader
-//Tests & Blendings
-//Fragment Shader - is needed to provide
-//Rasterization
-
 #include<iostream>
 #include<cmath>
 #include<glad/glad.h>
