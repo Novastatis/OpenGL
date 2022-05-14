@@ -1,4 +1,6 @@
 # OpenGL
 Just messing with OpenGL, nothing promising
 
-The depedencies for now are: GLFW, GLAD
+## Depedencies
+* [GLFW] (https://www.glfw.org/)
+* [GLAD] (https://glad.dav1d.de/)
