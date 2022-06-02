@@ -1,5 +1,4 @@
 # OpenGL
-Learning
 
 ## Depedencies
 * **GLFW** | [[Website]](https://www.glfw.org/) [[GitHub]](https://github.com/glfw/glfw)
