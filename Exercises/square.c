@@ -15,10 +15,6 @@ const char* fragment_shader_source = "#version 330 core\n"
 "   FragColor = vec4(0.8f, 0.3f, 0.02f, 1.0f);\n"
 "}\n\0";
 
-void framebuffer_resize_callback(GLFWwindow* window, int fbWidth, int fbHeight) {
-	glViewport(0, 0, fbWidth, fbHeight);
-}
-
 int main(void) {
 	int width = 800;
 	int height = 600;
